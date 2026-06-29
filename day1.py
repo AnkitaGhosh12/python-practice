@@ -1,0 +1,13 @@
+name = input("Enter your name :")
+age = int(input("Enter your age :"))
+marks = float(input("Enter your marks :"))
+next_class = int(input("Now you are read in : "))
+
+print("-"*30)
+print(f"Student Profile")
+print("-"*30)
+print(f"   Name           : {name}")
+print(f"    Age           : {age} ")
+print(f"  Percentage      : {marks}%")
+print(f" Next year        : In{next_class+1}class you will read")
+print("-"*30)
