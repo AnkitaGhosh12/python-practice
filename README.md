@@ -15,4 +15,8 @@ My Python learning journey from scratch.
 - Git & GitHub
 
 ## 👩‍💻 About Me
+<<<<<<< HEAD
 Final-year CS & Technology student at Canning Government Polytechnic, West Bengal.
+=======
+Final-year CS & Technology student at Canning Government Polytechnic, West Bengal.
+>>>>>>> bd99c88c26c4a43dd8a0ef7153643bdfaa297ad4
